@@ -1,5 +1,6 @@
 # Coup-de-Coeur-Dashboard-Creation
-Creation of Dashboard with Tableau for final project with WBS Coding School
+Creation of Dashboard with Tableau for final project with WBS Coding School.
+
 Dashboard Link [Tableau Public](https://public.tableau.com/views/CoupdeCoeur_finalversion/Dashboard2?:language=en-GB&:sid=309E9F255980432698C4654E1713062C-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Summary 
@@ -7,12 +8,16 @@ This repository contains the development of a dashboard on Tableau for the ficti
 
 # Languages and tools used
 Python: data exploration
+
 Tableau: data visualization, dashboard creation
 
 # Key Learnings
 Consolidation of data exploration through Python with Pandas and Seaborn libraries.
+
 Creation of meaningful plots for data visualization via Tableau.
+
 Creation of interactive dashboard with branded look and feel via Tableau. 
+
 Creation of visually appealing and coinsise presentation.
 
 # Challenges Overcome
